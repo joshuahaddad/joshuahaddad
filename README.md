@@ -6,8 +6,9 @@ My current interests and endeavors include:
 - Organizational technical readiness and driving best practices across disparate engineering teams.
 - Personal interests: Agent orchestration, verification, how to use AI to effectively teach, and local data science to help the Chicagoland public.
 
-This is my personal github account. See https://github.com/jhaddadrhc for enterprise git.
-How to reach me: joshuaihaddad@gmail.com
+I also recently started a [substack](https://substack.com/@joshuahaddad) where I write about tech leadership, data science, and other topics I am interested in.
+
+How to reach me: [LinkedIn](https://www.linkedin.com/feed/foryou/)
 <!---
 joshuahaddad/joshuahaddad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
